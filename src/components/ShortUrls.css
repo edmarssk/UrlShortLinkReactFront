@@ -1,0 +1,22 @@
+.h2-text {
+    color: red;
+}
+
+.url-container {
+    background-color: #444;
+    margin: 8px 0;
+    padding: 15px 20px;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+}
+
+.button-remove, .button-details {
+    background-color: #444;
+    border: none;
+    font-size: 18px;
+    color: chartreuse;
+    margin: 0 5px;
+}
